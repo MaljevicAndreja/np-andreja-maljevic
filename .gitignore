@@ -1,0 +1,15 @@
+# Python virtuelno okruzenje
+.venv/
+
+# Python privremene datoteke
+__pycache__/
+*.pyc
+
+# pytest privremene datoteke
+.pytest_cache/
+
+# Ruff privremene datoteke
+.ruff_cache/
+
+# macOS sistemske datoteke
+.DS_Store
