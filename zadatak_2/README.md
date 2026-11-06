@@ -28,14 +28,13 @@ Napravila sam i zamjenske klase za testiranje, tako da program možemo provjerit
 
 ## Korišćenje AI asistenta
 
-Tokom izrade zadatka koristila sam ChatGPT za pomoć pri pisanju i objašnjavanju koda.
+Za izradu ovog zadatka koristila sam ChatGPT kao pomoć pri refaktorisanju početnog Python koda.
 
-Neki od upita koje sam koristila su:
+Upiti su se odnosili na razdvajanje odgovornosti klase, primjenu SOLID principa S i D, korišćenje Protocol interfejsa i pisanje pytest testova sa zamjenskim podacima.
 
-- „Hajde da radimo zadatak za 4 boda redom, korak po korak.”
-- „Hajde dalje.”
+Uz pomoć AI asistenta analizirala sam početni kod i napravila novu verziju u kojoj su odgovornosti podijeljene na posebne klase.
 
-Takođe sam AI asistentu slala rezultate testiranja i Ruff provjera kako bih dobila objašnjenja i potrebne ispravke.
+Na kraju sam provjerila kod pomoću pytesta i Ruffa i ispravila probleme sa formatiranjem.
 
 ## Uočeni problemi i ispravke
 
