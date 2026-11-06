@@ -24,15 +24,13 @@ Za podatke koje sam koristila dobila sam prosječnu cijenu od **80.50 EUR**.
 
 ## Korišćenje AI asistenta
 
-Tokom rada koristila sam ChatGPT kao pomoć pri pisanju i provjeri koda.
+Tokom izrade zadatka koristila sam ChatGPT kao pomoć pri pisanju i provjeri Python koda.
 
-Neki od upita koje sam koristila su:
+Upiti su se odnosili na implementaciju funkcije za računanje prosječne cijene noćenja, povezivanje programa sa CSV datotekom, pronalaženje grešaka i pisanje automatskih testova.
 
-- „Zašto ne mogu samo Run da koristim i da je kod direktno povezan sa CSV?”
-- „Daj cijeli kod.”
-- „Makni samo koje kolone Python vidi.”
+AI mi je pomogao da pronađem uzrok greške KeyError: 'noci' i prilagodim program tako da se može direktno pokrenuti u VS Code-u.
 
-AI mi je pomogao da napišem funkciju, povežem je sa CSV datotekom i pronađem greške tokom pokretanja programa.
+Nakon toga sam provjerila ispravnost programa pomoću pytesta i Ruffa.
 
 ## Uočeni problemi i nedostaci
 
